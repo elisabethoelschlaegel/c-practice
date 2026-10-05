@@ -1,0 +1,64 @@
+A struct (Structures) in the C programming language (and many derivatives) is a composite data type (or record) declaration that defines a physically grouped list of variables under one name in a block of memory, allowing the different variables to be accessed via a single pointer or by the struct declared name which returns the same address. The struct data type can contain other data types so is used for mixed-data-type records such as a hard-drive directory entry (file length, name, extension, physical address, etc.), or other mixed-type records (name, address, telephone, balance, etc.).
+
+
+1. Student Structure Operations
+
+Create a structure called "Student" with members name, age, and total marks. Write a C program to input data for two students, display their information, and find the average of total marks.
+
+Click me to see the solution
+
+
+2. Time Structure Calculations
+
+Define a structure named Time with members hours, minutes, and seconds. Write a C program to input two times, add them, and display the result in proper time format.
+
+Click me to see the solution
+
+
+3. Book Structure Management
+
+Create a structure named Book to store book details like title, author, and price. Write a C program to input details for three books, find the most expensive and the lowest priced books, and display their information.
+
+Click me to see the solution
+
+
+4. Circle Structure Calculations
+
+Define a structure named Circle to represent a circle with a radius. Write a C program to calculate the area and perimeter of two circles and display the results.
+
+Click me to see the solution
+
+
+5. Employee Structure Processing
+
+Create a structure named "Employee" to store employee details such as employee ID, name, and salary. Write a program to input data for three employees, find the highest salary employee, and display their information.
+
+Click me to see the solution
+
+
+6. Date Structure Operations
+
+Define a structure named "Date" with members day, month, and year. Write a C program to input two dates and find the difference in days between them.
+
+Click me to see the solution
+
+
+7. Queue Implementation with Structures
+
+Write a C program that implements a simple queue using a structure. The structure should contain an array representing the queue and front and rear indices. Include functions for enqueue and dequeue operations.
+
+Click me to see the solution
+
+
+8. Complex Number Operations
+
+Create a structure named Complex to represent a complex number with real and imaginary parts. Write a C program to add and multiply two complex numbers.
+
+Click me to see the solution
+
+
+9. Car Structure Management
+
+Design a structure named "Car" to store details like car ID, model, and rental rate per day. Write a C program to input data for three cars, calculate the total rental cost for a specified number of days, and display the results.
+
+lick me to see the solution
